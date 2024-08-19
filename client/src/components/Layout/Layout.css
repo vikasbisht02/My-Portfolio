@@ -1,0 +1,35 @@
+.landingPage {
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.93);
+
+}
+
+.sidebar {
+    height: 100vh;
+    background-color: #1e1e2c;
+    width: 90px;
+    position: fixed;
+}
+
+.sidebarToggle {
+    width: 200px;
+}
+
+.sidebarToggleIcon {
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    cursor: pointer;
+}
+
+.sidebarToggleIcon p {
+    color: white;
+
+
+}
+
+@media (max-width:600px) {
+    .sidebar {
+        display: none;
+    }
+}
