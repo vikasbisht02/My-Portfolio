@@ -11,7 +11,7 @@ import "./App.css";
 import Mobile from "./components/Mobile/Mobile";
 
 import { ToastContainer } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css"
+
 
 const App = () => {
   const [theme] = useTheme();
