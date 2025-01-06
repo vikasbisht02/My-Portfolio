@@ -12,12 +12,7 @@ const About = () => {
           <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-content">
             <h1>About Me</h1>
             <p>
-              Hello, I am Vikas, a fresher software developer with a knack for
-              crafting intuitive web applications. My journey began with a
-              degree in Bechalre Of Computer Application(BCA) from Shri Guru Ram
-              Rai University Dehradun Uttarakhand. I am a Mern Stack Developer .
-              Where am working on good projects and finding a Internship
-              Outside of coding, I love traveling and exploring new area.
+            Hello, I am Vikas, a beginner software developer with a talent for creating easy-to-use web applications. My journey started with a degree in Bachelor of Computer Applications (BCA) from Shri Guru Ram Rai University, Dehradun, Uttarakhand. I am a MERN Stack Developer, working on exciting projects and looking for an internship. Outside of coding, I enjoy traveling and discovering new places.
             </p>
           </div>
         </div>

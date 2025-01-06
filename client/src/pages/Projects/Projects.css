@@ -71,7 +71,6 @@
 #ads .ad-btn {
     display: block;
     text-align: center;
-    text-transform: uppercase;
     width: 150px;
     height: 40px;
     background-color: #138781;
@@ -80,7 +79,7 @@
     font-size: 1rem;
     line-height: 35px;
     text-decoration: none;
-    margin: 20px auto 20px auto;
+    margin: auto;
     overflow: hidden;
     position: relative;
 }

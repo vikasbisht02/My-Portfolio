@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 import "./Home.css";
 import Typewriter from "typewriter-effect";
-import Resume from "../../assets/docs/vikasResume.pdf";
+import Resume from "../../assets/docs/myResume.pdf";
 import { useTheme } from "../../context/ThemeContext";
 import { BsFillMoonStarsFill, BsFillSunFill } from "react-icons/bs";
 
@@ -41,7 +41,7 @@ const Home = () => {
             >
               Hire Me
             </a>
-            <a className="btn btn-cv" href={Resume} download="vikasResume.pdf">
+            <a className="btn btn-cv" href={Resume} download="myResume.pdf">
               My Resume
             </a>
           </div>

@@ -6,7 +6,7 @@
 }
 
 .about-image img {
-  border-radius: 10px;
+  border-radius: 50%;
   width: 55%;
   height: 300px;
 }

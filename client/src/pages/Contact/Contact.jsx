@@ -49,7 +49,7 @@ const Contact = () => {
 
     if (Object.keys(validationErrors).length === 0) {
       setIsSubmitted(true);
-      e.target.submit(); // Submits the form to the action URL
+      e.target.submit(); 
     }
   };
 

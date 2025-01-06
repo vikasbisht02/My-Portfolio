@@ -27,8 +27,7 @@ const WorkExp = () => {
             >
               <h3 className="vertical-timeline-element-title">Fresher</h3>
               <h4 className="vertical-timeline-element-subtitle">
-                I am a fresher currently working on  good projects to get a good
-                job.
+              I am a fresher currently working on interesting projects to secure a good job.
               </h4>
             </VerticalTimelineElement>
           </VerticalTimeline>
